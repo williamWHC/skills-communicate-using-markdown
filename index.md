@@ -14,3 +14,13 @@ initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello Word!"
 ```
+
+## Lista de Tarefas
+
+- [x] Realizar requisição
+- [x] Realizar pull
+- [ ] Realizar Issues
+
+##
+
+
